@@ -1,6 +1,6 @@
 [![GitHub Badge](https://img.shields.io/github/followers/Tars4815?style=social)](https://github.com/galessandroni?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/giacaless?style=social)](https://twitter.com/giacaless)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/giacaless)
+[![Mastodon Badge](https://img.shields.io/badge/My-Mastodon-blue)](https://wikis.world/@galessandroni)
 
 # ✨ Welcome! ✨
 
